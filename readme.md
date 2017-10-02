@@ -39,8 +39,11 @@ no changes in dsg resent changes
     
 - knowing what the change is (that is the meaning or scope)
 - check relevancy
+- find "buzz words"/Topics for matching changes /information with who will be notified
 - push relevant information
 - figure out what needs to be changed in businees process to comply with taht change
+- how does the user add new sources / delete old sources
+- how does the user define when to get notified (domaine of knowledge / monitoring field)
 
 
 # TODO (for further revision)
