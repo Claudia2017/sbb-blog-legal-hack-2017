@@ -31,8 +31,8 @@ no changes in dsg resent changes
     - ex: "Geändert in anderem Erlass"
     - ex: "Berichtigung"  => https://www.admin.ch/opc/de/official-compilation/2016/2307.pdf
     
-- diffing/comparision between 2 revision
-    - [ ] find examples:
+- diffining/comparision between 2 revision
+    - [ ] find examples: 
     - [ ] sometimes they post just difs ...
     - [ ] sometimes they post new revision ...
     - [ ] sometimes the post just a diff (which is the most interesting)
